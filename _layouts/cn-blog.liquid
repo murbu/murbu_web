@@ -1,0 +1,38 @@
+---
+layout: default
+---
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    {% if page.description %}
+      <p class="post-description">{{ page.description }}</p>
+    {% endif %}
+  </header>
+
+  <article>
+    {{ content }}
+
+    {% assign posts = site.cnblog | sort: 'date' | reverse %}
+    {% if posts.size > 0 %}
+      <ul class="post-list">
+        {% for post in posts %}
+          <li>
+            <h3>
+              <a class="post-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            </h3>
+            <p>
+              <span class="post-meta">{{ post.date | date: '%Y-%m-%d' }}</span>
+              {% if post.summary %}
+                — {{ post.summary }}
+              {% elsif post.description %}
+                — {{ post.description }}
+              {% endif %}
+            </p>
+          </li>
+        {% endfor %}
+      </ul>
+    {% else %}
+      <p>还没有中文文章。</p>
+    {% endif %}
+  </article>
+</div>

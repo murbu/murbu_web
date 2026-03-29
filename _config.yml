@@ -164,6 +164,9 @@ collections:
     output: true
   teachings:
     output: true
+  cnblog:
+    output: true
+    permalink: /cn-blog/:path/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -279,8 +282,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: Li
+  first_name: Yuanxi
 
   style: apa
   locale: en
