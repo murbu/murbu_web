@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/al-folio/projects/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/al-folio/repositories/";
-          },
         },{id: "nav-cv",
           title: "CV",
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
@@ -44,35 +37,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/al-folio/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
+        },{id: "nav-中文写作",
+          title: "中文写作",
+          description: "中文博客、随笔、诗歌与笔记",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/teaching/";
+            window.location.href = "/al-folio/cn-blog/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/al-folio/people/";
-          },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/al-folio/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/al-folio/blog/";
-              },
-            },{id: "post-a-post-with-plotly-js",
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -440,6 +412,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/al-folio/books/the_godfather/";
+            },},{id: "cnblog-错误信息",
+          title: '错误信息',
+          description: "关于错误信息的一则简短笔记",
+          section: "Cnblog",handler: () => {
+              window.location.href = "/al-folio/cn-blog/2024-02-06-misinformation/";
+            },},{id: "cnblog-如何在三个月内零基础通过-comptia-security-sy0-701-考试",
+          title: '如何在三个月内零基础通过 CompTIA Security+ SY0-701 考试',
+          description: "我的 Security+ 备考经验",
+          section: "Cnblog",handler: () => {
+              window.location.href = "/al-folio/cn-blog/2025-02-22-security-plus/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
