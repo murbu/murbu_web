@@ -15,6 +15,7 @@ The most important study materials for me were **Professor Messer's videos and n
 - [Professor Messer's Security+ SY0-701 Playlist](https://youtu.be/STM3EUvL7wg)
 
 At the same time, I was taking a course called **INFO 310: Information Assurance and Cybersecurity** ([GitHub Link](https://github.com/uw-areifers/sum-24-uw-cybersec-huskey-manager)), but it focused on different areas compared to Security+. Security+ is more about theory, operations, and management, covering a wide range of topics like:
+
 - Assessing the security posture of an enterprise environment and recommending solutions.
 - Monitoring and securing hybrid environments, including cloud, mobile, IoT, and operational technology.
 - Operating with an awareness of applicable regulations, policies, and principles of governance, risk, and compliance.
@@ -25,6 +26,7 @@ In short, Security+ covers a broad range of knowledge but doesn’t require deep
 ## Practice Exams
 
 After finishing the videos, I started practicing with free exams from **ExamCompass**:
+
 - [ExamCompass Free Security+ Practice Tests](https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests)
 
 These questions are not high quality, but they helped me recall the concepts I had learned. The questions are mostly about choosing the correct definition of terms, which was useful at this stage because I had already gone through all the basic knowledge but could only recall less than half of it. After finishing a set of questions, I went back to the concepts I didn’t remember and highlighted them in Professor Messer’s notes. Through this process, I noticed that sometimes his notes didn’t cover everything.

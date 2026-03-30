@@ -27,13 +27,14 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hello, I'm Yuanxi Li! I am an incoming PhD student in Sociology at the University of Washington. 
 
-As an interdisciplinary researcher, my work focuses on how computational methods and demographic analysis can illuminate and mitigate structural inequalities. I am particularly passionate about the intersection of computational social science, demography, social networks, and health disparities. Broadly, my research aims to understand human behavior and societal dynamics through both digital trace data and traditional sociological methods. 
+Hello, I'm Yuanxi Li! I am an incoming PhD student in Sociology at the University of Washington.
 
-Prior to starting my PhD, I will receive my Bachelor of Arts in Sociology (Honors) and Bachelor of Science in Informatics from the University of Washington in June 2026. 
+As an interdisciplinary researcher, my work focuses on how computational methods and demographic analysis can illuminate and mitigate structural inequalities. I am particularly passionate about the intersection of computational social science, demography, social networks, and health disparities. Broadly, my research aims to understand human behavior and societal dynamics through both digital trace data and traditional sociological methods.
 
-In my free time, I enjoy writing poetry, photography, exploring coffee, and skiing. I am also the author of a self-published poetry chapbook, [*The Sun, The Moon, Rambling, Ranting*](/al-folio/publications/#li2026sun)..
+Prior to starting my PhD, I will receive my Bachelor of Arts in Sociology (Honors) and Bachelor of Science in Informatics from the University of Washington in June 2026.
+
+In my free time, I enjoy writing poetry, photography, exploring coffee, and skiing. I am also the author of a self-published poetry chapbook, [_The Sun, The Moon, Rambling, Ranting_](/al-folio/publications/#li2026sun)..
 
 Contact me at yuanxili@uw.edu.
 

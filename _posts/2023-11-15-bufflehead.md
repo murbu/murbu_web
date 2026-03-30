@@ -7,6 +7,7 @@ categories: life
 ---
 
 {% include figure.liquid path="https://upload.wikimedia.org/wikipedia/commons/0/0f/Bucephala-albeola-007.jpg" class="img-fluid rounded z-depth-1 mx-auto d-block" width="60%" caption="Image from Wikipedia" zoomable=true %}
+
 <div align="center"><em>Image from Wikipedia</em></div>
 
 On my way from the Suzzallo Library to the Health Science Library, I passed by the fountain. Today is bright but cold, and the fountain wasn't running. Only waves, blown by the wind, and ripples remained. Wearing my earphones, I was seized by a whim to sit on the stone bench for a while. Several water birds were swimming and diving in the pond made by the fountain. The stone bench was too cold to sit on. I had to stand up, but my eyes remained fixed on the water. These black and white birds were quite different from the usual Canada geese or mallards. Some of them had white bodies with black backs. Their heads were black, but the backsides were white. Others, without these distinct markings, had brown or gray bodies. Their heads were black, and their cheeks white, as if they had a little paint smeared on their faces. Uncommon visitors indeed!
