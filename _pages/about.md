@@ -38,4 +38,4 @@ In my free time, I enjoy writing poetry, photography, exploring coffee, and skii
 
 Contact me at yuanxili@uw.edu.
 
-![Seattle Sunset](assets/img/sunset.jpg){: .img-fluid .rounded .z-depth-1 }
+
