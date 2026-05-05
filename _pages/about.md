@@ -37,5 +37,3 @@ Prior to starting my PhD, I will receive my Bachelor of Arts in Sociology (Honor
 In my free time, I enjoy writing poetry, photography, exploring coffee, and skiing. I am also the author of a self-published poetry chapbook, [_The Sun, The Moon, Rambling, Ranting_](/al-folio/publications/#li2026sun)..
 
 Contact me at yuanxili@uw.edu.
-
-
