@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented my honors thesis, “Beyond Partisanship: Explaining Vaccine Attitudes through Cultural Capital,” and our “Multimodal AI Analysis of Politically Sensitive Material: A Case Study on Pepe the Frog” poster at the UW Undergraduate Research Symposium.
+Presented my undergrad honors thesis, “Beyond Partisanship: Explaining Vaccine Attitudes through Cultural Capital,” and our “Multimodal AI Analysis of Politically Sensitive Material: A Case Study on Pepe the Frog” poster (<a href="{{ '/assets/pdf/HDSSI.pdf' | relative_url }}" target="_blank">PDF</a>) at the UW Undergraduate Research Symposium.
