@@ -28,11 +28,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello, I'm Yuanxi Li! I am an incoming PhD student in Sociology at the University of Washington.
+Hello, I'm Yuanxi Li! I am a first-year PhD student in Sociology at the University of Washington.
 
-As an interdisciplinary researcher, my work focuses on how computational methods and demographic analysis can illuminate and mitigate structural inequalities. I am particularly passionate about the intersection of computational social science, demography, social networks, and health disparities. Broadly, my research aims to understand human behavior and societal dynamics through both digital trace data and traditional sociological methods.
+As an interdisciplinary researcher, my work focuses on health disparities and the demographic and social processes that shape structural inequalities. My research interests span demography, social networks, and computational social science. Broadly, I draw on quantitative and computational methods to understand health-related behaviors, population health, and social inequalities.
 
-Prior to starting my PhD, I will receive my Bachelor of Arts in Sociology (Honors) and Bachelor of Science in Informatics from the University of Washington in June 2026.
+Prior to beginning my PhD, I earned my Bachelor of Arts in Sociology (Honors) and Bachelor of Science in Informatics from the University of Washington in June 2026.
 
 In my free time, I enjoy writing poetry, photography, exploring coffee, and skiing. I am also the author of a self-published poetry chapbook, [_The Sun, The Moon, Rambling, Ranting_](/al-folio/publications/#li2026sun)..
 
